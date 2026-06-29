@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fathima-portfolio/static/css/main.d0185fa2.css",
-    "main.js": "/fathima-portfolio/static/js/main.fd778052.js",
+    "main.js": "/fathima-portfolio/static/js/main.3556f672.js",
     "static/js/453.c24751ce.chunk.js": "/fathima-portfolio/static/js/453.c24751ce.chunk.js",
     "static/media/profile3.jpeg": "/fathima-portfolio/static/media/profile3.118081e0127e5d0ec542.jpeg",
     "index.html": "/fathima-portfolio/index.html",
     "main.d0185fa2.css.map": "/fathima-portfolio/static/css/main.d0185fa2.css.map",
-    "main.fd778052.js.map": "/fathima-portfolio/static/js/main.fd778052.js.map",
+    "main.3556f672.js.map": "/fathima-portfolio/static/js/main.3556f672.js.map",
     "453.c24751ce.chunk.js.map": "/fathima-portfolio/static/js/453.c24751ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0185fa2.css",
-    "static/js/main.fd778052.js"
+    "static/js/main.3556f672.js"
   ]
 }
